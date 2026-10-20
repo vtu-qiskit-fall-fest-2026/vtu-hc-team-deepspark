@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Team DeepSpark** · Team ID `VTU-QFF-HC-0156` · Tier `Offline`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Team DeepSpark)
+[⬆ Back to Top](#team-deepspark)
 
 </div>
