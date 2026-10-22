@@ -1,0 +1,37 @@
+p_x,p_z,best_strategy,label,heldout_failure_rate,heldout_baseline_rate,confident
+0.0,0.0,none,Uncorrected (1 qubit),0.0,0.0,False
+0.04,0.0,bit3_q,"Bit-flip code, 3q (quantum decode)",0.00225,0.018125,True
+0.08,0.0,bit3_q,"Bit-flip code, 3q (quantum decode)",0.009625,0.037125,True
+0.12,0.0,bit5_q,"Bit-flip code, 5q (quantum decode)",0.00925,0.05775,True
+0.16,0.0,bit5_q,"Bit-flip code, 5q (quantum decode)",0.016375,0.07875,True
+0.2,0.0,bit5_q,"Bit-flip code, 5q (quantum decode)",0.028375,0.09825,True
+0.0,0.04,phase3_q,"Phase-flip code, 3q (quantum decode)",0.002,0.019625,True
+0.04,0.04,none,Uncorrected (1 qubit),0.039375,0.039375,True
+0.08,0.04,none,Uncorrected (1 qubit),0.0575,0.0575,True
+0.12,0.04,none,Uncorrected (1 qubit),0.08425,0.08425,True
+0.16,0.04,none,Uncorrected (1 qubit),0.096875,0.096875,True
+0.2,0.04,none,Uncorrected (1 qubit),0.122125,0.122125,True
+0.0,0.08,phase3_q,"Phase-flip code, 3q (quantum decode)",0.007125,0.04225,True
+0.04,0.08,none,Uncorrected (1 qubit),0.060375,0.060375,True
+0.08,0.08,none,Uncorrected (1 qubit),0.0835,0.0835,True
+0.12,0.08,none,Uncorrected (1 qubit),0.095875,0.095875,True
+0.16,0.08,none,Uncorrected (1 qubit),0.12425,0.12425,True
+0.2,0.08,none,Uncorrected (1 qubit),0.145625,0.145625,True
+0.0,0.12,phase3_q,"Phase-flip code, 3q (quantum decode)",0.020875,0.06125,True
+0.04,0.12,none,Uncorrected (1 qubit),0.07675,0.07675,True
+0.08,0.12,none,Uncorrected (1 qubit),0.09675,0.09675,True
+0.12,0.12,none,Uncorrected (1 qubit),0.118125,0.118125,True
+0.16,0.12,none,Uncorrected (1 qubit),0.138125,0.138125,True
+0.2,0.12,none,Uncorrected (1 qubit),0.160625,0.160625,True
+0.0,0.16,phase5_q,"Phase-flip code, 5q (quantum decode)",0.018125,0.08475,True
+0.04,0.16,none,Uncorrected (1 qubit),0.102875,0.102875,True
+0.08,0.16,none,Uncorrected (1 qubit),0.1165,0.1165,True
+0.12,0.16,none,Uncorrected (1 qubit),0.13675,0.13675,True
+0.16,0.16,none,Uncorrected (1 qubit),0.15775,0.15775,True
+0.2,0.16,none,Uncorrected (1 qubit),0.178375,0.178375,True
+0.0,0.2,phase5_q,"Phase-flip code, 5q (quantum decode)",0.02875,0.103375,True
+0.04,0.2,none,Uncorrected (1 qubit),0.12,0.12,True
+0.08,0.2,none,Uncorrected (1 qubit),0.13675,0.13675,True
+0.12,0.2,none,Uncorrected (1 qubit),0.156875,0.156875,True
+0.16,0.2,none,Uncorrected (1 qubit),0.175125,0.175125,True
+0.2,0.2,none,Uncorrected (1 qubit),0.2085,0.2085,True

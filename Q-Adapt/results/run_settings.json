@@ -1,0 +1,8 @@
+{
+  "shots": 5000,
+  "trials": 6,
+  "seed": 2026,
+  "budget": 5,
+  "lam": 0.005,
+  "alpha": 0.05
+}
