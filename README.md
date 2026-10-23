@@ -5,6 +5,14 @@ Qiskit Fall Fest 2026 · Track 3 (Quantum Hardware & Error Correction)
 Q-Adapt **simulates** noisy quantum memories with Qiskit Aer, **benchmarks** several error-correction
 strategies, and an **adaptive engine** recommends the best one for the noise and the qubit budget you
 choose — or recommends *no correction* when the data show it doesn't help.
+## 🎥 Project Demo Video
+
+Watch our project demonstration:
+
+[![Project Demo Video](https://youtu.be/3IFeJeFZtSE?si=ZRRzUe2F3Hrg_GKr)
+
+[▶️ Watch the Demo on YouTube](https://youtu.be/3IFeJeFZtSE?si=ZRRzUe2F3Hrg_GKr)
+
 
 ## Quick start
 ```bash
