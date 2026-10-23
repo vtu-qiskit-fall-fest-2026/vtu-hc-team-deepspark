@@ -90,7 +90,7 @@ where they pay off makes better use of limited devices. On 120 unseen noise
 conditions, Q-Adapt cut mean logical error by about 8% against no correction
 and about 40% against always-on codes, using fewer qubits than the fixed codes.
 
-**Track / Category:**  Online  · Track 1  · Quantum Hardware & Error Correction_
+**Track / Category:**  Offline  · Track 1  · Quantum Hardware & Error Correction_
 
 ---
 
